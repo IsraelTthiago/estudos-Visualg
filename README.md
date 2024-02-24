@@ -15,4 +15,4 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 - [ ] Sub-rotinas
 - [ ] ...
 
-
+praticando com conflito de merge
