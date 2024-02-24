@@ -13,6 +13,5 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 - [ ] Estruturas de Controle
 - [ ] Estruturas de Repetição
 - [ ] Sub-rotinas
-- [ ] ...
+- [ ] ..
 
-praticando com conflito de merge
