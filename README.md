@@ -15,7 +15,7 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 - [ ] Sub-rotinas
 - [ ] ..
 
-
+  <img src="https://th.bing.com/th/id/OIP.2doM4_ZWeRD9AMq8_LGJOgHaEK?rs=1&pid=ImgDetMain" />
 
 teeeeeeeeeeeeeeeeeeeeeeeeeete  Olha o paaaao
 
