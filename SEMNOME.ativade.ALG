@@ -11,4 +11,6 @@ Inicio
    C <- 5
    D <- 2
    Escreva (A=D)
+   escreva ("Fim da execução") 
+
 Fimalgoritmo
