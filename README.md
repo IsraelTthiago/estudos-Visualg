@@ -15,5 +15,4 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 - [ ] Sub-rotinas
 - [ ] ...
 
-addded isaias
 
