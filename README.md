@@ -18,3 +18,10 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 
 <hr> 
 
+
+  <fieldset>
+    <legend>Resolve vei</legend>
+      <strong>Resolve o conflito filhote</strong>
+  </fieldset>
+
+
