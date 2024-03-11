@@ -15,14 +15,3 @@ Neste repositório, você encontrará meus registros e códigos relacionados aos
 - [ ] Sub-rotinas
 - [ ] ...
  
-
-   Pai ta on
- 
-
-
-  <fieldset>
-    <legend>Resolve vei</legend>
-      <strong>Resolve o conflito filhote</strong>
-  </fieldset>
-
-
